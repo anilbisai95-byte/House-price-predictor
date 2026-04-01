@@ -17,7 +17,7 @@ user_size = st.number_input(
     label="House Size (sq ft):",
     min_value=500,
     max_value=10000,
-    value=00,
+    value=000,
     step=50
 )
 
