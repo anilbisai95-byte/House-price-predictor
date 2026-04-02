@@ -18,7 +18,7 @@ user_size = st.number_input(
     min_value=500,
     max_value=10000,
     value=500,
-    step=50
+    step=25
 )
 
 # Prediction button
